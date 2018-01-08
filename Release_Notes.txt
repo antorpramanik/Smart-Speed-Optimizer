@@ -1,17 +1,8 @@
-                            Release Notes:
-                      -------------------------
+                                               Release Notes
+                                         -------------------
 
 
-      V 1.0.0.1
-      ----------
-      *Improve Speed
-
-
-
-
-
-
-
-
-
-      *Developer by antor
+                    V1.0.0.1
+                    ----------
+                    *Improve Speed
+                    *Developer by antor
