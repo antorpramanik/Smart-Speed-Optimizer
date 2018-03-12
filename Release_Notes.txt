@@ -1,12 +1,12 @@
 
 
-
-
-
 Release Notes:
 -------------------
 
-V1.0.0.1
+V1.0.0.2
 ----------
 *Improve Speed
+*Improve the design
+*bug fix
+*New animation added!
 *Developer by antor
