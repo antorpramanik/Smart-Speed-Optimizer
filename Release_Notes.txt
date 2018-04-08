@@ -2,10 +2,10 @@
 Release Notes:
 -------------------
 
-V1.0.0.3
+V1.0.0.4
 ----------
-*Added new sounds!
+*Flash mode fixed!
 *Improve the design
-*bug fix
-*New animation added!
+*added new features
+*bug fix and improvement speed!
 *Developer by antor
