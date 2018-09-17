@@ -2,10 +2,11 @@
 Release Notes:
 -------------------
 
-V1.0.0.4
-----------
-*Flash mode fixed!
-*Improve the design
-*added new features
-*bug fix and improvement speed!
-*Developer by antor
+V1.0.0.0 final.
+---------------
+*NOW FEEL THE SPEED!
+*NEW Advanced Design.
+*Time sense activity
+*EASY-QUICK-POWERFUL
+
+|| Developer by Shuvendu Pramanik (antor)
