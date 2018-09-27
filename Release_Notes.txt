@@ -3,10 +3,11 @@ Release Notes:
 -------------------
 
 V1.0.0.0 final.
----------------
-*NOW FEEL THE SPEED!
-*NEW Advanced Design
-*Time sense activity
-*EASY-QUICK-POWERFUL
+-------------------
+- NOW FEEL THE SPEED!
+- New Advanced Design
+- Time Sense Activity
+- Auto Speed mode function
+- Quick - Clean - Optimize!
 
 || Developer by antorpramanik
