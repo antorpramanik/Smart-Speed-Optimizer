@@ -5,8 +5,8 @@ Release Notes:
 V1.0.0.0 final.
 ---------------
 *NOW FEEL THE SPEED!
-*NEW Advanced Design.
+*NEW Advanced Design
 *Time sense activity
 *EASY-QUICK-POWERFUL
 
-|| Developer by Shuvendu Pramanik (antor)
+|| Developer by antorpramanik
