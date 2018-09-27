@@ -1,7 +1,8 @@
+Smart Speed Optimizer (SSO)
+A Powerful PC Booster, Cleaner, Optimizer application with easy interfaces for windows.
 
 Release Notes:
 -------------------
-
 V1.0.0.0 final.
 -------------------
 - NOW FEEL THE SPEED!
